@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT UI/UX Internship
 # task 1
 https://github.com/RequiemxOP/signup_uxui
 # Task 2
